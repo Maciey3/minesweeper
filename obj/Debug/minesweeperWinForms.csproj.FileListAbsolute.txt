@@ -1,0 +1,11 @@
+C:\Users\Maciek\Desktop\projekty\minesweeperWinForms\bin\Debug\minesweeperWinForms.exe.config
+C:\Users\Maciek\Desktop\projekty\minesweeperWinForms\bin\Debug\minesweeperWinForms.exe
+C:\Users\Maciek\Desktop\projekty\minesweeperWinForms\bin\Debug\minesweeperWinForms.pdb
+C:\Users\Maciek\Desktop\projekty\minesweeperWinForms\obj\Debug\minesweeperWinForms.csproj.AssemblyReference.cache
+C:\Users\Maciek\Desktop\projekty\minesweeperWinForms\obj\Debug\minesweeperWinForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maciek\Desktop\projekty\minesweeperWinForms\obj\Debug\minesweeperWinForms.Properties.Resources.resources
+C:\Users\Maciek\Desktop\projekty\minesweeperWinForms\obj\Debug\minesweeperWinForms.csproj.GenerateResource.cache
+C:\Users\Maciek\Desktop\projekty\minesweeperWinForms\obj\Debug\minesweeperWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\Desktop\projekty\minesweeperWinForms\obj\Debug\minesweeperWinForms.exe
+C:\Users\Maciek\Desktop\projekty\minesweeperWinForms\obj\Debug\minesweeperWinForms.pdb
+C:\Users\Maciek\Desktop\projekty\minesweeperWinForms\obj\Debug\minesweeperWinForms.Form1.resources
