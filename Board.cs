@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace minesweeperWinForms
 {
-    internal class Board
+    public class Board
     {
         public int n;
         public int m;
@@ -18,6 +18,7 @@ namespace minesweeperWinForms
             n = rows;
             m = columns;
             bombs = rows * columns / 6;
+            //bombs = 1;
             board = new int[rows, columns];
             fillBoard();
 

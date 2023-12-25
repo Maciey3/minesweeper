@@ -9,3 +9,14 @@ C:\Users\Maciek\Desktop\projekty\minesweeperWinForms\obj\Debug\minesweeperWinFor
 C:\Users\Maciek\Desktop\projekty\minesweeperWinForms\obj\Debug\minesweeperWinForms.exe
 C:\Users\Maciek\Desktop\projekty\minesweeperWinForms\obj\Debug\minesweeperWinForms.pdb
 C:\Users\Maciek\Desktop\projekty\minesweeperWinForms\obj\Debug\minesweeperWinForms.Form1.resources
+C:\Users\sznop\source\repos\minesweeper\bin\Debug\minesweeperWinForms.exe.config
+C:\Users\sznop\source\repos\minesweeper\bin\Debug\minesweeperWinForms.exe
+C:\Users\sznop\source\repos\minesweeper\bin\Debug\minesweeperWinForms.pdb
+C:\Users\sznop\source\repos\minesweeper\obj\Debug\minesweeperWinForms.csproj.AssemblyReference.cache
+C:\Users\sznop\source\repos\minesweeper\obj\Debug\minesweeperWinForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\sznop\source\repos\minesweeper\obj\Debug\minesweeperWinForms.Form1.resources
+C:\Users\sznop\source\repos\minesweeper\obj\Debug\minesweeperWinForms.Properties.Resources.resources
+C:\Users\sznop\source\repos\minesweeper\obj\Debug\minesweeperWinForms.csproj.GenerateResource.cache
+C:\Users\sznop\source\repos\minesweeper\obj\Debug\minesweeperWinForms.csproj.CoreCompileInputs.cache
+C:\Users\sznop\source\repos\minesweeper\obj\Debug\minesweeperWinForms.exe
+C:\Users\sznop\source\repos\minesweeper\obj\Debug\minesweeperWinForms.pdb

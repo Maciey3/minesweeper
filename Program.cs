@@ -13,10 +13,7 @@ namespace minesweeperWinForms
         /// </summary>
         [STAThread]
         static void Main()
-        {
-            Board board = new Board(5, 6);
-            //board.showBoard();
-
+       {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());

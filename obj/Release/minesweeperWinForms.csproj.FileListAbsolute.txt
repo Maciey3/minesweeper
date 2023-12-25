@@ -1,0 +1,11 @@
+C:\Users\sznop\source\repos\minesweeper\bin\Release\minesweeperWinForms.exe.config
+C:\Users\sznop\source\repos\minesweeper\bin\Release\minesweeperWinForms.exe
+C:\Users\sznop\source\repos\minesweeper\bin\Release\minesweeperWinForms.pdb
+C:\Users\sznop\source\repos\minesweeper\obj\Release\minesweeperWinForms.csproj.AssemblyReference.cache
+C:\Users\sznop\source\repos\minesweeper\obj\Release\minesweeperWinForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\sznop\source\repos\minesweeper\obj\Release\minesweeperWinForms.Form1.resources
+C:\Users\sznop\source\repos\minesweeper\obj\Release\minesweeperWinForms.Properties.Resources.resources
+C:\Users\sznop\source\repos\minesweeper\obj\Release\minesweeperWinForms.csproj.GenerateResource.cache
+C:\Users\sznop\source\repos\minesweeper\obj\Release\minesweeperWinForms.csproj.CoreCompileInputs.cache
+C:\Users\sznop\source\repos\minesweeper\obj\Release\minesweeperWinForms.exe
+C:\Users\sznop\source\repos\minesweeper\obj\Release\minesweeperWinForms.pdb
